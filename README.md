@@ -1,6 +1,6 @@
 # 🧠 Deep Learning Projects
 
-A collection of deep learning projects showcasing applications of Transformers, LSTMs, Autoencoders, and generative AI. These projects involve classification, forecasting, anomaly detection, and intelligent assistant design — all built using neural networks.
+A collection of deep learning projects showcasing applications of Transformers, LSTMs, Autoencoders, and generative AI. These projects involve classification, forecasting, anomaly detection, and intelligent assistant design, all built using neural networks.
 
 ---
 
@@ -24,7 +24,7 @@ Detect anomalies in wearable sensor data using **Autoencoders, One-Class SVM, an
 
 ### 🤖 [LLM-Powered Smart Query Assistant for Tabular Data ➜](https://github.com/lexusimni/LLM-Tabular-Assistant)
 
-Simulate a smart assistant that responds to natural language queries on structured tabular data. This project integrates **LLM-style logic** with rule-based responses, mimicking GPT-like behavior without an actual model — ideal for tabular data exploration.
+Simulate a smart assistant that responds to natural language queries on structured tabular data. This project integrates **LLM-style logic** with rule-based responses, mimicking GPT-like behavior without an actual model, ideal for tabular data exploration.
 
 ---
 
